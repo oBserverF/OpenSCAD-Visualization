@@ -1,0 +1,29 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "joint0": {
+            "rotation": "[0, 0, 0]",
+            "translation": "[0, 0, 10]"
+        },
+        "joint1": {
+            "rotation": "[-90, 0, 0]",
+            "translation": "[0, 10, 0]"
+        },
+        "joint2": {
+            "rotation": "[90, 0, 0]",
+            "translation": "[0, -10, 0]"
+        },
+        "joint3": {
+            "rotation": "[90, 0, 180]",
+            "translation": "[0, -10, 0]"
+        },
+        "joint4": {
+            "rotation": "[90, 0, 180]",
+            "translation": "[0, -10, 0]"
+        },
+        "joint5": {
+            "rotation": "[0, 0, 0]",
+            "translation": "[6, 0, 0]"
+        }
+    }
+}
